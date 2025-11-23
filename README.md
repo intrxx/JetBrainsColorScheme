@@ -1,5 +1,5 @@
 # My Color Schemes
 
-## intrxx_Theme_v1
+## rider_intrxx_Theme_v2
 
-![intrxx_Theme_v1](https://github.com/intrxx/JetBrainsColorScheme/blob/main/image/intrxx_Theme_v1.jpg)
+![intrxx_Theme_v1](https://github.com/intrxx/JetBrainsColorScheme/blob/main/image/rider_intrxx_theme_v2)
