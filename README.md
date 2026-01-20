@@ -1,4 +1,4 @@
-# My Color Schemes
+# My JetBrains Color Schemes
 
 ## rider_intrxx_Theme_v2
 
